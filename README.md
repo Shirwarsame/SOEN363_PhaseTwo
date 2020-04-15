@@ -29,6 +29,8 @@ Once again, we used the Studio3T interface to load the datasets into our databas
 we did it:
 - Right-click on the name of your created database, then click on import collections
 - Click on the “+”
-
+- Select all collections from the dataset
+- Click on “execute”
+- The collections should have loaded into your database
 
 To run the code simply insert the queries into the IntelliShell from Studio 3T
