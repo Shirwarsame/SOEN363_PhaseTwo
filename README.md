@@ -19,6 +19,16 @@ Collections:
 - yelp_academic_dataset_tip.json
 - yelp_academic_dataset_user.json
 
+You will have to run these steps everytime you want to use your MongoDB database and
+connect to it through studio 3T. Here are the steps to create the database:
+- Click on “Database” in the top menu -> click on “Add Database”
+- Choose a name for your database
+- We got the following result
+
+Once again, we used the Studio3T interface to load the datasets into our database. Here is how
+we did it:
+- Right-click on the name of your created database, then click on import collections
+- Click on the “+”
 
 
 To run the code simply insert the queries into the IntelliShell from Studio 3T
